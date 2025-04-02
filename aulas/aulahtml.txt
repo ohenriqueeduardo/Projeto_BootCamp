@@ -1,0 +1,17 @@
+HTML = Linguagem de Marcação de hipertexto
+
+Ajuda a estruturar uma página
+Ele é o esqueleto do site
+
+Tags - Pequenas peças que são usadas pra montar uma página
+Abertura de tag - <p>
+Conteúdo da tag - Conteúdo de tag
+Fechamento de tag - </p> ou self-closing
+
+Atributos de Tags - Alguma característica de uma tag, dela própria.
+
+ESTRUTURA BASE DO HTML
+
+<html> - raíz do doc / a pessoa
+<head> - Informações sobre o html / a cabeça da pessoa
+<body> - Corpo / o corpo da pessoa
