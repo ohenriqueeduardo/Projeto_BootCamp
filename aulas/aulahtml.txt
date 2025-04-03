@@ -15,3 +15,6 @@ ESTRUTURA BASE DO HTML
 <html> - raíz do doc / a pessoa
 <head> - Informações sobre o html / a cabeça da pessoa
 <body> - Corpo / o corpo da pessoa
+
+ul - unordered list / lista desordenada
+ol - ordered list / lista ordenada

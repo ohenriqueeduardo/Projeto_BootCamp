@@ -1,0 +1,8 @@
+Styling with CSS
+
+Cascade Style Sheets
+
+Seletores - Quais elementos do HTML serão estilizados
+Seletor de tag, classe, universal e descendente
+
+Propriedade - É uma característica cujo valor define o aspecto do elemento exibido.
