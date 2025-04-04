@@ -1,0 +1,10 @@
+/* Universal Selector */
+* {
+    margin: 0; /* Margem Externa entre os elementos */
+    padding: 0; /* Preenchimento Interno entre os elementos */
+    box-sizing: border-box; /* Espaçamentos e larguras mais faceis */
+}
+
+ul {
+    list-style: none; /* Remove os marcadores de lista */
+}
